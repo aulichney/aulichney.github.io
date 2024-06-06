@@ -207,7 +207,7 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 100%;
+      border-radius: 20%;
     }
 
       .image.avatar:before {
@@ -216,7 +216,7 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 45%;
+        width: 80%;
         padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
@@ -285,7 +285,7 @@ a:hover {
 }
 
 a small {
-  font-size:11px;
+  font-size:13px;
   color:#777;
   margin-top:-0.3em;
   display:block;
