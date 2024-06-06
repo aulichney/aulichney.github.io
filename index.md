@@ -2,21 +2,13 @@
 layout: homepage
 ---
 
-## About Me
 
-I am a Ph.D. student at ...
+I am a PhD Student in Statistics at UC Berkeley advised by [Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/). My research focuses on developing responsible and reliable learning and decision-making algorithms by integrating tools from statistics and computer science.  
 
-## Research Interests
+I am grateful to have my work supported by the NSF Graduate Research Fellowship. 
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+Previously, I worked in software engineering after receiving a B.S. from Yale University, where I majored in Applied Mathematics and Mechanical Engineering. 
 
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
