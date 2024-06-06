@@ -1,22 +1,23 @@
 main:
+  - title: "Fair Allocation in Dynamic Mechanism Design"
+    authors: Alireza Fallah, Michael I. Jordan, Annie Ulichney
+    notes: Preprint
+    pdf: https://arxiv.org/abs/2406.00147
+    
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "{BalanceProofs}: Maintainable Vector Commitments with Fast Aggregation"
+    authors: Weijie Wang, Annie Ulichney, Charalampos Papamanthou
+    conference: 32nd USENIX Security Symposium, 2023.
+    pdf: https://www.usenix.org/system/files/usenixsecurity23-wang-weijie.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:aPeUDZOwtdwJ:scholar.google.com/&output=citation&scisdr=ClH8HZznEMOPiOwHiU8:AFWwaeYAAAAAZl4BkU8VIJ0jhaBW3BlQWIVGeqY&scisig=AFWwaeYAAAAAZl4BkQe05TnFvOCoEaiaPxtjnCY&scisf=4&ct=citation&cd=-1&hl=en
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Automatic Infectious Disease Classification Analysis with Concept Discovery"
+    authors: Elena Sizikova, Joshua Vendrow, Xu Cao, Rachel Grotheer, Jamie Haddock, Lara Kassab, Alona Kryshchenko, Thomas Merkh, RWMA Madushani, Kenny Moise, Annie Ulichney, Huy V Vo, Chuntian Wang, Megan Coffee, Kathryn Leonard, Deanna Needell
+    conference: Machine Learning for Health (ML4H) 2022 Extended Abstract.
+    pdf: https://arxiv.org/pdf/2209.02415
+    code: https://github.com/esizikova/infectious_disease_concepts
+
+  - title: Population-Based Hierarchical Non-Negative Matrix Factorization for Survey Data
+    authors: Xiaofu Ding, Xinyu Dong, Olivia McGough, Chenxin Shen, Annie Ulichney, Ruiyao Xu, William Swartworth, Jocelyn T Chi, Deanna Needell
+    conference: 2022 IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT)
+    pdf: https://arxiv.org/pdf/2209.04968
