@@ -1,7 +1,9 @@
 main:
   - title: "Fair Allocation in Dynamic Mechanism Design"
     authors: Alireza Fallah, Michael I. Jordan, Annie Ulichney
-    notes: Preprint
+    #notes: Preprint
+    conference: "NeurIPS 2024"
+    workshop: "ICML Workshop: Humans, Algorithmic Decision-Making and Society 2024"
     pdf: https://arxiv.org/abs/2406.00147
     
 
@@ -9,7 +11,7 @@ main:
     authors: Weijie Wang, Annie Ulichney, Charalampos Papamanthou
     conference: 32nd USENIX Security Symposium, 2023.
     pdf: https://www.usenix.org/system/files/usenixsecurity23-wang-weijie.pdf
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:aPeUDZOwtdwJ:scholar.google.com/&output=citation&scisdr=ClH8HZznEMOPiOwHiU8:AFWwaeYAAAAAZl4BkU8VIJ0jhaBW3BlQWIVGeqY&scisig=AFWwaeYAAAAAZl4BkQe05TnFvOCoEaiaPxtjnCY&scisf=4&ct=citation&cd=-1&hl=en
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:aPeUDZOwtdwJ:scholar.google.com/&output=citation&scisdr=ClH8HZznEMOPiOwHiU8:AFWwaeYAAAAAZl4BkU8VIJ0jhaBW3BlQWIVGeqY&scisig=AFWwaeYAAAAAZl4BkQe05TnFvOCoEaiaPxtjnCY&scisf=4&ct=citation&cd=-1&hl=en
 
   - title: "Automatic Infectious Disease Classification Analysis with Concept Discovery"
     authors: Elena Sizikova, Joshua Vendrow, Xu Cao, Rachel Grotheer, Jamie Haddock, Lara Kassab, Alona Kryshchenko, Thomas Merkh, RWMA Madushani, Kenny Moise, Annie Ulichney, Huy V Vo, Chuntian Wang, Megan Coffee, Kathryn Leonard, Deanna Needell
