@@ -1,4 +1,18 @@
 main:
+  - title: "The Statistical Fairness-Accuracy Frontier"
+    authors: Alireza Fallah, Michael I. Jordan, Annie Ulichney
+    #notes: Preprint
+    conference: Preprint
+    #workshop: "ICML Workshop: Humans, Algorithmic Decision-Making and Society 2024"
+    pdf: https://arxiv.org/abs/2508.17622
+
+  - title: "Revisiting mean estimation over ℓp balls: Is the MLE optimal?"
+    authors: Liviu Aolaritei, Michael I. Jordan, Reese Pathak, Annie Ulichney
+    #notes: Preprint
+    conference: Preprint
+    #workshop: "ICML Workshop: Humans, Algorithmic Decision-Making and Society 2024"
+    pdf: https://arxiv.org/abs/2506.10354
+
   - title: "Fair Allocation in Dynamic Mechanism Design"
     authors: Alireza Fallah, Michael I. Jordan, Annie Ulichney
     #notes: Preprint
